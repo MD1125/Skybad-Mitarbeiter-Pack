@@ -1,0 +1,55 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:component",
+    "component": "minecraft:custom_name",
+    "cases": [
+      {
+        "when": "Würfel 1",
+        "model": {
+          "type": "minecraft:model",
+          "model": "skybad:item/wuerfel_1"
+        }
+      },
+      {
+        "when": "Würfel 2",
+        "model": {
+          "type": "minecraft:model",
+          "model": "skybad:item/wuerfel_2"
+        }
+      },
+      {
+        "when": "Würfel 3",
+        "model": {
+          "type": "minecraft:model",
+          "model": "skybad:item/wuerfel_3"
+        }
+      },
+      {
+        "when": "Würfel 4",
+        "model": {
+          "type": "minecraft:model",
+          "model": "skybad:item/wuerfel_4"
+        }
+      },
+      {
+        "when": "Würfel 5",
+        "model": {
+          "type": "minecraft:model",
+          "model": "skybad:item/wuerfel_5"
+        }
+      },
+      {
+        "when": "Würfel 6",
+        "model": {
+          "type": "minecraft:model",
+          "model": "skybad:item/wuerfel_6"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/arrow"
+    }
+  }
+}

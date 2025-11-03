@@ -1,0 +1,27 @@
+{
+  "pack": {
+    "pack_format": 64,
+    "description": [
+      {"text": "■ 1.21.6 ", "color": "dark_red"},
+      {"text": "BETA", "color": "dark_red", "bold": true},
+      {"text": "\nS", "color": "#54DAF4", "bold": true},
+      {"text": "k", "color": "#55D4F2", "bold": true},
+      {"text": "y", "color": "#56CEEF", "bold": true},
+      {"text": "b", "color": "#58C8ED", "bold": true},
+      {"text": "a", "color": "#59C2EA", "bold": true},
+      {"text": "d", "color": "#5ABCE8", "bold": true},
+      {"text": " ", "bold": true},
+      {"text": "M", "color": "#5DB0E3", "bold": true},
+      {"text": "i", "color": "#5EAAE1", "bold": true},
+      {"text": "t", "color": "#5FA3DE", "bold": true},
+      {"text": "a", "color": "#609DDC", "bold": true},
+      {"text": "r", "color": "#6297D9", "bold": true},
+      {"text": "b", "color": "#6391D7", "bold": true},
+      {"text": "e", "color": "#648BD5", "bold": true},
+      {"text": "i", "color": "#6585D2", "bold": true},
+      {"text": "t", "color": "#677FD0", "bold": true},
+      {"text": "e", "color": "#6879CD", "bold": true},
+      {"text": "r", "color": "#6973CB", "bold": true}
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Max (MD1125)",
+	"texture_size": [64, 64],
+	"textures": {
+		"0": "skybad:item/wuerfel",
+		"particle": "skybad:item/wuerfel"
+	},
+	"elements": [
+		{
+			"name": "wuerfel_1",
+			"from": [4, 0, 4],
+			"to": [12, 8, 12],
+			"rotation": {"angle": 0, "axis": "y", "origin": [6, 0, 7]},
+			"faces": {
+				"north": {"uv": [6, 2, 8, 4], "texture": "#0"},
+				"east": {"uv": [6, 2, 8, 4], "rotation": 90, "texture": "#0"},
+				"south": {"uv": [6, 2, 8, 4], "texture": "#0"},
+				"west": {"uv": [6, 2, 8, 4], "texture": "#0"},
+				"up": {"uv": [8, 4, 6, 2], "texture": "#0"},
+				"down": {"uv": [8, 2, 6, 4], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, 1.25, -0.75],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"thirdperson_lefthand": {
+			"translation": [0, 1.25, -0.75],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"ground": {
+			"translation": [0, 5.25, 0]
+		},
+		"gui": {
+			"translation": [0, 4, 0]
+		},
+		"head": {
+			"translation": [0, 11.5, 0]
+		},
+		"fixed": {
+			"translation": [0, 4, 1]
+		}
+	}
+}

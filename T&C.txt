@@ -1,0 +1,36 @@
+____________________________________________
+
+Skybad Resource Pack: Nutzungsbedingungen
+
+____________________________________________
+
+- Durch die Nutzung dieses Resource Packs erklären Sie sich mit diesen Bedingungen einverstanden.
+- Das Skybad ist der Haupt-Ersteller und Inhaber der Urheberrechte dieses Resource Packs. Einige Modelle stammen von Mitgliedern des Skybad-Teams und bleiben deren geistiges Eigentum.
+- Diese Bedingungen können jederzeit geändert werden.
+- Diese Bedingungen gelten nur, wenn Sie das Resource Pack in eigenen Inhalten verwenden, die Sie öffentlich teilen möchten.
+- Nicht alle Elemente dieses Resource Packs unterliegen diesen Bedingungen. Die Bedingungen gelten speziell für folgende Assets/Elemente:
+  - Benutzerdefinierte Items & Modelle (.json)
+  - Benutzerdefinierte Texturen (.png)
+  - Pack-Icons
+- Der Ersteller behält sich das endgültige Entscheidungsrecht darüber vor, welche Bedingungen für die Nutzung dieses Resource Packs und seiner Assets gelten.
+
+____________________________________________
+
+Mit diesem Resource Pack DARFST DU:
+
+- das Resource Pack für den **privaten Gebrauch modifizieren**, solange es nicht öffentlich geteilt wird
+- das Resource Pack in **Modpacks oder auf Servern** verwenden
+- das Resource Pack in **Inhalten wie Videos, Streams oder Blogposts** verwenden
+- eine **bearbeitete Version** des Resource Packs in eigenen Inhalten verwenden, wenn die bearbeitete Version nicht öffentlich verfügbar ist
+- Assets remixen, transformieren oder weiterverwenden, sofern eine **Namensnennung erfolgt**
+- mit remixten, transformierten oder weiterverarbeiteten Assets Einnahmen erzielen, sofern die Bedingungen eingehalten werden
+
+____________________________________________
+
+Mit diesem Resource Pack DARFST DU NICHT:
+
+- dieses Resource Pack **direkt weiterverteilen**
+- uneditierte Assets in eigenen Resource Packs **verwenden**, ohne vorherige Erlaubnis des Erstellers
+- Assets dieses Resource Packs in **bezahlten Produkten oder kostenpflichtigem Zugriff** verwenden, ohne vorherige Erlaubnis des Erstellers
+
+____________________________________________
