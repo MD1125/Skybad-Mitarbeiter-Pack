@@ -1,9 +1,9 @@
 {
 	"credit": "Max (MD1125)",
 	"textures": {
-		"5": "skybad:item/golf_schlaeger/2",
-		"6": "skybad:item/golf_schlaeger/3",
-		"7": "skybad:item/golf_schlaeger/4"
+		"5": "skybad:item/golf/schlaeger/2",
+		"6": "skybad:item/golf/schlaeger/3",
+		"7": "skybad:item/golf/schlaeger/4"
 	},
 	"elements": [
 		{

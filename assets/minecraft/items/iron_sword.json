@@ -8,7 +8,21 @@
         "when": "Golf Schläger",
         "model": {
           "type": "minecraft:model",
-          "model": "skybad:item/golf_schlaeger"
+          "model": "skybad:item/golf/schlaeger"
+        }
+      },
+      {
+        "when": "Golf Flagge",
+        "model": {
+          "type": "minecraft:model",
+          "model": "skybad:item/golf/flagge"
+        }
+      },
+      {
+        "when": "Laptop",
+        "model": {
+          "type": "minecraft:model",
+          "model": "skybad:item/laptop"
         }
       }
     ],
