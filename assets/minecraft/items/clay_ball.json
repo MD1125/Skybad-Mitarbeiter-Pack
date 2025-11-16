@@ -5,150 +5,425 @@
     "component": "minecraft:custom_name",
     "cases": [
       {
-        "when": "Golf Ball | 1",
+        "when": {
+          "text": "",
+          "extra": [
+            {
+              "text": "Golf Ball | ",
+              "type": "text",
+              "bold": true,
+              "italic": false,
+              "underlined": false,
+              "strikethrough": false,
+              "obfuscated": false
+            },
+            {
+              "text": "1",
+              "bold": true,
+              "color": "white",
+              "italic": false
+            }
+          ]
+        },
         "model": {
           "type": "minecraft:model",
-          "model": "skybad:item/golf/ball"
+          "model": "skybad:item/golf/ball/1"
         }
       },
       {
-        "when": "Golf Ball | 2",
+        "when": {
+          "text": "",
+          "extra": [
+            {
+              "text": "Golf Ball | ",
+              "type": "text",
+              "bold": true,
+              "italic": false,
+              "underlined": false,
+              "strikethrough": false,
+              "obfuscated": false
+            },
+            {
+              "text": "2",
+              "bold": true,
+              "color": "gray",
+              "italic": false
+            }
+          ]
+        },
         "model": {
           "type": "minecraft:model",
-          "model": "skybad:item/golf/ball"
+          "model": "skybad:item/golf/ball/2"
         }
       },
       {
-        "when": "Golf Ball | 3",
+        "when": {
+          "text": "",
+          "extra": [
+            {
+              "text": "Golf Ball | ",
+              "type": "text",
+              "bold": true,
+              "italic": false,
+              "underlined": false,
+              "strikethrough": false,
+              "obfuscated": false
+            },
+            {
+              "text": "3",
+              "bold": true,
+              "color": "dark_gray",
+              "italic": false
+            }
+          ]
+        },
         "model": {
           "type": "minecraft:model",
-          "model": "skybad:item/golf/ball"
+          "model": "skybad:item/golf/ball/3"
         }
       },
       {
-        "when": "Golf Ball | 4",
+        "when": {
+          "text": "",
+          "extra": [
+            {
+              "text": "Golf Ball | ",
+              "type": "text",
+              "bold": true,
+              "italic": false,
+              "underlined": false,
+              "strikethrough": false,
+              "obfuscated": false
+            },
+            {
+              "text": "4",
+              "bold": true,
+              "color": "black",
+              "italic": false
+            }
+          ]
+        },
         "model": {
           "type": "minecraft:model",
-          "model": "skybad:item/golf/ball"
+          "model": "skybad:item/golf/ball/4"
         }
       },
       {
-        "when": "Golf Ball | 5",
+        "when": {
+          "text": "",
+          "extra": [
+            {
+              "text": "Golf Ball | ",
+              "type": "text",
+              "bold": true,
+              "italic": false,
+              "underlined": false,
+              "strikethrough": false,
+              "obfuscated": false
+            },
+            {
+              "text": "5",
+              "bold": true,
+              "color": "black",
+              "italic": false
+            }
+          ]
+        },
         "model": {
           "type": "minecraft:model",
-          "model": "skybad:item/golf/ball"
+          "model": "skybad:item/golf/ball/5"
         }
       },
       {
-        "when": "Golf Ball | 6",
+        "when": {
+          "text": "",
+          "extra": [
+            {
+              "text": "Golf Ball | ",
+              "type": "text",
+              "bold": true,
+              "italic": false,
+              "underlined": false,
+              "strikethrough": false,
+              "obfuscated": false
+            },
+            {
+              "text": "6",
+              "bold": true,
+              "color": "dark_red",
+              "italic": false
+            }
+          ]
+        },
         "model": {
           "type": "minecraft:model",
-          "model": "skybad:item/golf/ball"
+          "model": "skybad:item/golf/ball/6"
         }
       },
       {
-        "when": "Golf Ball | 7",
+        "when": {
+          "text": "",
+          "extra": [
+            {
+              "text": "Golf Ball | ",
+              "type": "text",
+              "bold": true,
+              "italic": false,
+              "underlined": false,
+              "strikethrough": false,
+              "obfuscated": false
+            },
+            {
+              "text": "7",
+              "bold": true,
+              "color": "red",
+              "italic": false
+            }
+          ]
+        },
         "model": {
           "type": "minecraft:model",
-          "model": "skybad:item/golf/ball"
+          "model": "skybad:item/golf/ball/7"
         }
       },
       {
-        "when": "Golf Ball | 8",
+        "when": {
+          "text": "",
+          "extra": [
+            {
+              "text": "Golf Ball | ",
+              "type": "text",
+              "bold": true,
+              "italic": false,
+              "underlined": false,
+              "strikethrough": false,
+              "obfuscated": false
+            },
+            {
+              "text": "8",
+              "bold": true,
+              "color": "yellow",
+              "italic": false
+            }
+          ]
+        },
         "model": {
           "type": "minecraft:model",
-          "model": "skybad:item/golf/ball"
+          "model": "skybad:item/golf/ball/8"
         }
       },
       {
-        "when": "Golf Ball | 9",
+        "when": {
+          "text": "",
+          "extra": [
+            {
+              "text": "Golf Ball | ",
+              "type": "text",
+              "bold": true,
+              "italic": false,
+              "underlined": false,
+              "strikethrough": false,
+              "obfuscated": false
+            },
+            {
+              "text": "9",
+              "bold": true,
+              "color": "green",
+              "italic": false
+            }
+          ]
+        },
         "model": {
           "type": "minecraft:model",
-          "model": "skybad:item/golf/ball"
+          "model": "skybad:item/golf/ball/9"
         }
       },
       {
-        "when": "Golf Ball | 10",
+        "when": {
+          "text": "",
+          "extra": [
+            {
+              "text": "Golf Ball | ",
+              "type": "text",
+              "bold": true,
+              "italic": false,
+              "underlined": false,
+              "strikethrough": false,
+              "obfuscated": false
+            },
+            {
+              "text": "10",
+              "bold": true,
+              "color": "dark_green",
+              "italic": false
+            }
+          ]
+        },
         "model": {
           "type": "minecraft:model",
-          "model": "skybad:item/golf/ball"
+          "model": "skybad:item/golf/ball/10"
         }
       },
       {
-        "when": "Golf Ball | 11",
+        "when": {
+          "text": "",
+          "extra": [
+            {
+              "text": "Golf Ball | ",
+              "type": "text",
+              "bold": true,
+              "italic": false,
+              "underlined": false,
+              "strikethrough": false,
+              "obfuscated": false
+            },
+            {
+              "text": "11",
+              "bold": true,
+              "color": "aqua",
+              "italic": false
+            }
+          ]
+        },
         "model": {
           "type": "minecraft:model",
-          "model": "skybad:item/golf/ball"
+          "model": "skybad:item/golf/ball/11"
         }
       },
       {
-        "when": "Golf Ball | 12",
+        "when": {
+          "text": "",
+          "extra": [
+            {
+              "text": "Golf Ball | ",
+              "type": "text",
+              "bold": true,
+              "italic": false,
+              "underlined": false,
+              "strikethrough": false,
+              "obfuscated": false
+            },
+            {
+              "text": "12",
+              "bold": true,
+              "color": "blue",
+              "italic": false
+            }
+          ]
+        },
         "model": {
           "type": "minecraft:model",
-          "model": "skybad:item/golf/ball"
+          "model": "skybad:item/golf/ball/12"
         }
       },
       {
-        "when": "Golf Ball | 13",
+        "when": {
+          "text": "",
+          "extra": [
+            {
+              "text": "Golf Ball | ",
+              "type": "text",
+              "bold": true,
+              "italic": false,
+              "underlined": false,
+              "strikethrough": false,
+              "obfuscated": false
+            },
+            {
+              "text": "13",
+              "bold": true,
+              "color": "dark_blue",
+              "italic": false
+            }
+          ]
+        },
         "model": {
           "type": "minecraft:model",
-          "model": "skybad:item/golf/ball"
+          "model": "skybad:item/golf/ball/13"
         }
       },
       {
-        "when": "Golf Ball | 14",
+        "when": {
+          "text": "",
+          "extra": [
+            {
+              "text": "Golf Ball | ",
+              "type": "text",
+              "bold": true,
+              "italic": false,
+              "underlined": false,
+              "strikethrough": false,
+              "obfuscated": false
+            },
+            {
+              "text": "14",
+              "bold": true,
+              "color": "dark_purple",
+              "italic": false
+            }
+          ]
+        },
         "model": {
           "type": "minecraft:model",
-          "model": "skybad:item/golf/ball"
+          "model": "skybad:item/golf/ball/14"
         }
       },
       {
-        "when": "Golf Ball | 15",
+        "when": {
+          "text": "",
+          "extra": [
+            {
+              "text": "Golf Ball | ",
+              "type": "text",
+              "bold": true,
+              "italic": false,
+              "underlined": false,
+              "strikethrough": false,
+              "obfuscated": false
+            },
+            {
+              "text": "15",
+              "bold": true,
+              "color": "light_purple",
+              "italic": false
+            }
+          ]
+        },
         "model": {
           "type": "minecraft:model",
-          "model": "skybad:item/golf/ball"
+          "model": "skybad:item/golf/ball/15"
         }
       },
       {
-        "when": "Golf Ball | 16",
+        "when": {
+          "text": "",
+          "extra": [
+            {
+              "text": "Golf Ball | ",
+              "type": "text",
+              "bold": true,
+              "italic": false,
+              "underlined": false,
+              "strikethrough": false,
+              "obfuscated": false
+            },
+            {
+              "text": "16",
+              "bold": true,
+              "color": "light_purple",
+              "italic": false
+            }
+          ]
+        },
         "model": {
           "type": "minecraft:model",
-          "model": "skybad:item/golf/ball"
-        }
-      },
-      {
-        "when": "Golf Ball | 17",
-        "model": {
-          "type": "minecraft:model",
-          "model": "skybad:item/golf/ball"
-        }
-      },
-      {
-        "when": "Golf Ball | 18",
-        "model": {
-          "type": "minecraft:model",
-          "model": "skybad:item/golf/ball"
-        }
-      },
-      {
-        "when": "Golf Ball | 19",
-        "model": {
-          "type": "minecraft:model",
-          "model": "skybad:item/golf/ball"
-        }
-      },
-      {
-        "when": "Golf Ball | 20",
-        "model": {
-          "type": "minecraft:model",
-          "model": "skybad:item/golf/ball"
+          "model": "skybad:item/golf/ball/16"
         }
       }
     ],
     "fallback": {
       "type": "minecraft:model",
-      "model": "minecraft:item/clay_ball",
-      "tints": []
+      "model": "minecraft:item/clay_ball"
     }
   }
 }

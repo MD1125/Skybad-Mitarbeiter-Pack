@@ -5,7 +5,26 @@
     "component": "minecraft:custom_name",
     "cases": [
       {
-        "when": "Spielfigur | Gelb",
+        "when": {
+          "text": "",
+          "extra": [
+            {
+              "text": "Spielfigur | ",
+              "type": "text",
+              "bold": true,
+              "italic": false,
+              "underlined": false,
+              "strikethrough": false,
+              "obfuscated": false
+            },
+            {
+              "text": "Gelb",
+              "bold": true,
+              "color": "yellow",
+              "italic": false
+            }
+          ]
+        },
         "model": {
           "type": "minecraft:model",
           "model": "skybad:item/ludo/gelb"

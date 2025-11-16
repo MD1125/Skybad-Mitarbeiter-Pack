@@ -5,7 +5,26 @@
     "component": "minecraft:custom_name",
     "cases": [
       {
-        "when": "Spielfigur | Grün",
+        "when": {
+          "text": "",
+          "extra": [
+            {
+              "text": "Spielfigur | ",
+              "type": "text",
+              "bold": true,
+              "italic": false,
+              "underlined": false,
+              "strikethrough": false,
+              "obfuscated": false
+            },
+            {
+              "text": "Grün",
+              "bold": true,
+              "color": "green",
+              "italic": false
+            }
+          ]
+        },
         "model": {
           "type": "minecraft:model",
           "model": "skybad:item/ludo/gruen"

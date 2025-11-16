@@ -5,7 +5,26 @@
     "component": "minecraft:custom_name",
     "cases": [
       {
-        "when": "Spielfigur | Rot",
+        "when": {
+          "text": "",
+          "extra": [
+            {
+              "text": "Spielfigur | ",
+              "type": "text",
+              "bold": true,
+              "italic": false,
+              "underlined": false,
+              "strikethrough": false,
+              "obfuscated": false
+            },
+            {
+              "text": "Rot",
+              "bold": true,
+              "color": "dark_red",
+              "italic": false
+            }
+          ]
+        },
         "model": {
           "type": "minecraft:model",
           "model": "skybad:item/ludo/rot"
