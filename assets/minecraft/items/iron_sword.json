@@ -5,7 +5,18 @@
     "component": "minecraft:custom_name",
     "cases": [
       {
-        "when": "Golf Schläger",
+        "when": {
+          "text": "",
+          "extra": [
+            {
+              "text": "Golf Schläger",
+              "type": "text",
+              "color": "dark_aqua",
+              "bold": true,
+              "italic": false
+            }
+          ]
+        },
         "model": {
           "type": "minecraft:model",
           "model": "skybad:item/golf/schlaeger"

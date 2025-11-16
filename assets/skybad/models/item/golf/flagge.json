@@ -1,6 +1,6 @@
 {
 	"format_version": "1.21.6",
-	"credit": "Max (MD1125)",
+	"credit": "Made with Blockbench",
 	"texture_size": [4, 4],
 	"textures": {
 		"0": "skybad:item/golf/flagge/flagge",
@@ -127,12 +127,17 @@
 			}
 		}
 	],
+	"gui_light": "front",
 	"display": {
 		"thirdperson_righthand": {
-			"scale": [0.3, 0.27, 0.19]
+			"rotation": [0, 90, 0],
+			"translation": [0, 1, 0],
+			"scale": [0.3, 0.5, 0.3]
 		},
 		"thirdperson_lefthand": {
-			"scale": [0.3, 0.27, 0.19]
+			"rotation": [0, -90, 0],
+			"translation": [0, 1, 0],
+			"scale": [0.3, 0.5, 0.3]
 		},
 		"firstperson_righthand": {
 			"rotation": [-180, 55.75, -180],
@@ -146,16 +151,17 @@
 		},
 		"ground": {
 			"translation": [0, 5.75, 0],
-			"scale": [0.8, 1, 0.8]
+			"scale": [0.6, 1, 0.6]
 		},
 		"gui": {
-			"rotation": [0, -90, 0],
-			"translation": [2.25, -3, 0],
-			"scale": [0, 0.4, 0.31]
+			"rotation": [0, 170, -48],
+			"translation": [2, -4, 0],
+			"scale": [0.3, 0.5, 0.3]
 		},
 		"head": {
-			"translation": [0, 6, 0],
-			"scale": [0.36, 0.48, 0.39]
+			"rotation": [-45, -90, 0],
+			"translation": [0, 3, -3],
+			"scale": [0.5, 0.7, 0.5]
 		},
 		"fixed": {
 			"rotation": [-90, 0, 0],
@@ -163,8 +169,7 @@
 			"scale": [2, 3.5, 2]
 		},
 		"on_shelf": {
-			"rotation": [0, -90, 0],
-			"translation": [4.5, 2, -3.75],
+			"translation": [4, 0.5, -3.75],
 			"scale": [0.6, 0.8, 0.6]
 		}
 	},
